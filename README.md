@@ -33,7 +33,7 @@ The dataset comes from LendingClub (loan data), and the model demonstrates how r
 ## 📊 Dataset  
 
 Dataset used: **LendingClub Loan Data**  
-- Available on [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data)  
+- Available on [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)  
 
 ---
 
